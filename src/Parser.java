@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import javax.swing.JFileChooser;
-
+//This program was written by Themis Koukoutzelas in 2020
 public class Parser {
 
 	private ArrayList<String> minmax= new ArrayList<String>();
